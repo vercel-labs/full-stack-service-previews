@@ -1,0 +1,4 @@
+-r requirements.in
+-c requirements.txt
+httpx2==2.16.0
+pytest==9.1.1
